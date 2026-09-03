@@ -42,7 +42,7 @@ A los vecinos que viven en el sector
 ¿Qué condición queremos observar o hacer visible?
 Queremos monitorear la pureza del agua y/o los químicos y alteraciones de esta 
 
-¿Por qué importa?
+¿Por qué importa? 
 Porque es el único acceso a agua que tiene la gente que vive en este sector, y no saben cuando está contaminada o no, y si el valor de la cantidad de los cambios hace que el agua se vuelva peligrosa.
 
 
