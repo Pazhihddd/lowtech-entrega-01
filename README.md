@@ -37,7 +37,7 @@ A los vecinos que viven en el sector
 - El ecosistema que rodea las fuentes de agua.
 
 
-###Fenómeno / problema
+### Fenómeno / problema
 
 ¿Qué condición queremos observar o hacer visible?
 Queremos monitorear la pureza del agua y/o los químicos y alteraciones de esta 
@@ -50,7 +50,7 @@ Porque es el único acceso a agua que tiene la gente que vive en este sector, y 
 La necesidad de utilizar diariamente esta fuente de agua y la dificultad de conocer de manera sencilla y constante cuál es su calidad. Los habitantes dependen de ella para sus actividades cotidianas, pero no necesariamente cuentan con herramientas accesibles que permitan detectar cambios o posibles alteraciones antes de utilizarla.
 
 
-###Variable / hipótesis
+### Variable / hipótesis
 
 
 ¿Qué podemos medir u observar?
