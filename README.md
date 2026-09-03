@@ -1,4 +1,4 @@
-#  lowtech-entrega-01
+#  Lowtech-entrega-01
 
 ## Monitoreo de la Calidad del Agua en Trafampulli
 ### Proyecto de diseño y monitoreo ambiental
