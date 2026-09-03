@@ -55,6 +55,11 @@ Se puede usar un mededidor de pH y un medidor TDS
 
 ### Referentes
 
+1. El medidor de conductividad eléctrica (TDS / EC Meter)En lugar de medir el pH, utiliza dos puntas metálicas (a menudo de titanio o acero) para hacer pasar una microcorriente a través del agua.Qué mide: La cantidad de sólidos y minerales disueltos (determina si el agua está pura o "sucia").El nivel low-tech: Existen versiones de bolsillo muy económicas (en forma de bolígrafo). Requieren una pequeña batería de botón, pero las puntas metálicas no se desgastan y no se necesitan líquidos de calibración complejos para mediciones generales.
+
+2. El probador de electrólisis (El más visual)Es una herramienta de baja tecnología formidable para demostraciones. Tiene cuatro barras de metal (dos de hierro y dos de aluminio) que se sumergen en los vasos de agua.Cómo funciona: Se conecta a la toma de corriente durante unos pocos segundos. La corriente viaja entre las puntas metálicas utilizando las sales químicas presentes en el agua como conductor.El resultado: El agua cambiará de color drásticamente. Se volverá verde oscuro/negra si hay metales pesados, amarilla si hay ácidos, o se mantendrá transparente si el agua es destilada o purísima.
+   
+3. Experimento Casero (Low-tech absoluto)Si quieres probar la presencia de sales en el agua sin comprar nada, puedes construir un circuito con:Una bombilla LED (o un pequeño zumbador).Una batería de 9V.Dos clavos de metal (uno de cobre y uno de zinc/hierro galvanizado).Si sumerges los dos clavos en el agua sin que se toquen entre sí: cuanto más rica sea el agua en sustancias químicas y sales (cloro, minerales, contaminantes), más intensamente se encenderá la bombilla gracias a la conductividad del líquido. Si el agua es purísima, la luz se quedará apagada.
 ---
 
 ## Variables
