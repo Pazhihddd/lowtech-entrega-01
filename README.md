@@ -64,15 +64,25 @@ Se puede usar un mededidor de pH y un medidor TDS
 
 ## Referentes
 
-1. El medidor de conductividad eléctrica (TDS / EC Meter) utiliza dos puntas metálicas (a menudo de titanio o acero) para hacer pasar una microcorriente a través del agua.Qué mide: La cantidad de sólidos y minerales disueltos (determina si el agua está pura o "sucia"). Existen versiones de bolsillo (en forma de bolígrafo). Requieren una pequeña batería de botón, pero las puntas metálicas no se desgastan y no se necesitan líquidos de calibración complejos para mediciones generales.
+1. Medidor TDS / EC
+Utiliza dos puntas metálicas para medir la conductividad del agua.
+Mide la cantidad de sales y sustancias disueltas en el agua.
 
-2. El probador de electrólisis es una herramienta de baja tecnología formidable para demostraciones. Tiene cuatro barras de metal (dos de hierro y dos de aluminio) que se sumergen en los vasos de agua.Cómo funciona: Se conecta a la toma de corriente durante unos pocos segundos. La corriente viaja entre las puntas metálicas utilizando las sales químicas presentes en el agua como conductor.El resultado: El agua cambiará de color drásticamente. Se volverá verde oscuro/negra si hay metales pesados, amarilla si hay ácidos, o se mantendrá transparente si el agua es destilada o purísima.
-   
-3. En casa se puede construir un circuito con una bombilla LED, una batería de 9V, dos clavos de metal (uno de cobre y uno de zinc/hierro galvanizado).Si sumerges los dos clavos en el agua sin que se toquen entre sí: cuanto más rica sea el agua en sustancias químicas y sales, más intensamente se encenderá la bombilla gracias a la conductividad del líquido. Si el agua es purísima, la luz se quedará apagada.
+2. Probador de electrólisis
+Utiliza barras metálicas que se sumergen en el agua y se conectan a una fuente de corriente.
+Muestra la reacción del agua al entrar en contacto con los metales.
 
-4. Los medidores de pH profesionales o de laboratorio basados en el electrodo de bulbo de vidrio. Su funcionamiento no se basa en una reacción química visual, sino en un principio físico-eléctrico llamado intercambio iónico. El pH depende de cuántos "iones de hidrógeno" hay en el agua (mientras más haya, más ácida es el agua). Cuando sumerges la ampolla, los iones presentes en el agua se adhieren a la parte externa del vidrio.
+3. Circuito casero de conductividad
+Se construye con una batería, una bombilla LED y dos clavos metálicos.
+Al sumergirlos en el agua, la intensidad de la luz dependerá de qué tan conductora sea.
+
+5. Medidor de pH
+Utiliza una sonda de vidrio que permite medir el nivel de acidez o alcalinidad del agua.
+El pH depende de la cantidad de iones de hidrógeno presentes.
+
 
 ---
+
 
 ## Variables
 
@@ -93,7 +103,7 @@ Si medimos periódicamente las variables del agua, podremos identificar cambios 
 
 Se propone desarrollar un kit de monitoreo Low-Tech de agua que pueda ser utilizado de manera sencilla por los habitantes del sector.
 
-Se puede realizar un sensor racuidado en una caja. Este sensor podría tener la placa Arduino Uno, el alimentador externo como una batería, el kit de sensor de pH analógico que incluye la sonda de vidrio negra con conector redondo y la tarjeta electrónica de interfaz a la que se atornilla la sonda y que envía la señal a Arduino, y el kit de sensor TDS analógico que incluye la sonda de plástico impermeable con las dos puntas metálicas internas y su tarjeta de amplificación de la señal.
+Se puede realizar un sensor encapsulado en una caja en una caja. Este sensor podría tener la placa Arduino Uno, un alimentador externo como una batería, un kit de sensor de pH analógico que incluye una sonda de vidrio negra conectada a una tarjeta electrónica de interfaz a la que se atornilla la sonda y que envía la señal a Arduino, y el kit de sensor TDS analógico que incluye la sonda de plástico impermeable con las dos puntas metálicas en su interior y una tarjeta de amplificación de señal.
 
 - Los vecinos tomarán una muestra de agua 
 
