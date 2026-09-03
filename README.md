@@ -4,17 +4,17 @@
 ### Proyecto de diseño y monitoreo ambiental
 
 ### Lugar: Sector de Trafampulli, Región de La Araucanía
-# Tema: Calidad del agua
-# Objetivo general: Hacer visibles posibles cambios en las características del agua utilizada por los habitantes del sector
+### Tema: Calidad del agua
+### Objetivo general: Hacer visibles posibles cambios en las características del agua utilizada por los habitantes del sector
 
 ---
 
-### Fenómeno
+## Fenómeno
 En la región de La Araucanía, cerca del lago Colico, hay un sector de vecinos cuya única fuente de agua potable es la que cae de la cordillera, donde a veces al ser caida de la cordillera de forma directa, se ve contaminado ya sea de forma natural, como artificial. Lo que interviene tanto en el ganado como en la agricultura particular de los vecinos de la zona, siendo estos sus mayores ingresos o sustentos económicos.
 
 ---
 
-### Contexto / Usuario
+## Contexto / Usuario
 
 ¿Dónde ocurre?
 En el sector de Trafampulli, en la región de La Araucanía
@@ -54,7 +54,7 @@ Se puede usar un mededidor de pH y un medidor TDS
 
 ---
 
-### Referentes
+## Referentes
 
 1. El medidor de conductividad eléctrica (TDS / EC Meter) utiliza dos puntas metálicas (a menudo de titanio o acero) para hacer pasar una microcorriente a través del agua.Qué mide: La cantidad de sólidos y minerales disueltos (determina si el agua está pura o "sucia"). Existen versiones de bolsillo (en forma de bolígrafo). Requieren una pequeña batería de botón, pero las puntas metálicas no se desgastan y no se necesitan líquidos de calibración complejos para mediciones generales.
 
