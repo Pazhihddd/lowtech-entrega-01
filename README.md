@@ -1,16 +1,23 @@
 #  Lowtech-entrega-01
 
-## Monitoreo de la Calidad del Agua en Trafampulli
-### Proyecto de diseño y monitoreo ambiental
+## Monitoreo de la Calidad del Agua en Trafampulli.
+### Proyecto de diseño y monitoreo ambiental.
 
-### Lugar: Sector de Trafampulli, Región de La Araucanía
-### Tema: Calidad del agua
-### Objetivo general: Hacer visibles posibles cambios en las características del agua utilizada por los habitantes del sector
+### Lugar: Sector de Trafampulli, Región de La Araucanía.
+### Tema: Calidad del agua.
+### Objetivo general: Hacer visibles posibles cambios en las características del agua utilizada por los habitantes del sector.
+
+### Estudiantes Paz Haddad, Serena Loi
+### Electivo Mención I y S: Dispositivos Low-Tech e Interfaces Interactivas.
+### Profesor Ricardo Sepúlveda S.
 
 ---
 
 ## Fenómeno
-En la región de La Araucanía, cerca del lago Colico, hay un sector de vecinos cuya única fuente de agua potable es la que cae de la cordillera, donde a veces al ser caida de la cordillera de forma directa, se ve contaminado ya sea de forma natural, como artificial. Lo que interviene tanto en el ganado como en la agricultura particular de los vecinos de la zona, siendo estos sus mayores ingresos o sustentos económicos.
+
+En la región de La Araucanía, cerca del lago Colico, hay un sector de vecinos cuya única fuente de agua potable es la que cae de la cordillera, donde a veces al ser caída de la cordillera de forma directa, se ve contaminado ya sea de forma natural, como artificial. Lo que interviene tanto en el ganado como en la agricultura particular de los vecinos de la zona, siendo estos sus mayores ingresos o sustentos económicos.
+
+El fenómeno que buscamos observar corresponde a las variaciones en la calidad del agua, las cuales no siempre pueden identificarse a simple vista. Aunque el agua pueda parecer limpia, algunas de sus características, como su nivel de acidez, alcalinidad o concentración de sólidos disueltos, pueden cambiar.
 
 ---
 
@@ -29,7 +36,8 @@ A los vecinos que viven en el sector
 - El suelo destinado al cultivo.
 - El ecosistema que rodea las fuentes de agua.
 
-Fenómeno / problema
+
+###Fenómeno / problema
 
 ¿Qué condición queremos observar o hacer visible?
 Queremos monitorear la pureza del agua y/o los químicos y alteraciones de esta 
@@ -42,7 +50,7 @@ Porque es el único acceso a agua que tiene la gente que vive en este sector, y 
 La necesidad de utilizar diariamente esta fuente de agua y la dificultad de conocer de manera sencilla y constante cuál es su calidad. Los habitantes dependen de ella para sus actividades cotidianas, pero no necesariamente cuentan con herramientas accesibles que permitan detectar cambios o posibles alteraciones antes de utilizarla.
 
 
-Variable / hipótesis
+###Variable / hipótesis
 
 
 ¿Qué podemos medir u observar?
