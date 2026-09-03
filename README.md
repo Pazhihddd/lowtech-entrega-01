@@ -62,7 +62,7 @@ Se puede usar un mededidor de pH y un medidor TDS
    
 3. En casa se puede construir un circuito con una bombilla LED, una batería de 9V, dos clavos de metal (uno de cobre y uno de zinc/hierro galvanizado).Si sumerges los dos clavos en el agua sin que se toquen entre sí: cuanto más rica sea el agua en sustancias químicas y sales, más intensamente se encenderá la bombilla gracias a la conductividad del líquido. Si el agua es purísima, la luz se quedará apagada.
 
-4. Tiras de lectura por reflexión para líquidos turbios (PH) son tiras diseñadas para líquidos que no son transparentes (por ejemplo, aguas con barro o coloreadas).Cómo funciona: La zona química reactiva está respaldada por una película transparente. Se sumerge la tira y el resultado del color se lee desde la parte posterior. De esta manera, la suciedad o el barro se quedan en la parte delantera sin cubrir ni alterar el color de la prueba.
+4. Los medidores de pH profesionales o de laboratorio basados en el electrodo de bulbo de vidrio. Su funcionamiento no se basa en una reacción química visual, sino en un principio físico-eléctrico llamado intercambio iónico. El pH depende de cuántos "iones de hidrógeno" hay en el agua (mientras más haya, más ácida es el agua). Cuando sumerges la ampolla, los iones presentes en el agua se adhieren a la parte externa del vidrio.
 
 ---
 
@@ -84,6 +84,8 @@ El objetivo no es determinar qué tiene el agua exactamente, sino que determinar
 Si medimos periódicamente las variables del agua, podremos identificar cambios en las características habituales y hacer visibles posibles alteraciones para los habitantes de Trafampulli.
 
 Se propone desarrollar un kit de monitoreo Low-Tech de agua que pueda ser utilizado de manera sencilla por los habitantes del sector.
+
+Se puede realizar un sensor racuidado en una caja. Este sensor podría tener la placa Arduino Uno, el alimentador externo como una batería, el kit de sensor de pH analógico que incluye la sonda de vidrio negra con conector redondo y la tarjeta electrónica de interfaz a la que se atornilla la sonda y que envía la señal a Arduino, y el kit de sensor TDS analógico que incluye la sonda de plástico impermeable con las dos puntas metálicas internas y su tarjeta de amplificación de la señal.
 
 - Los vecinos tomarán una muestra de agua 
 
