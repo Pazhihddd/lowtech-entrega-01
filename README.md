@@ -89,5 +89,5 @@ Se propone desarrollar un kit de monitoreo Low-Tech de agua que pueda ser utiliz
 -   Verde si el agua no presenta cambios
 -   Amarillo si el agua presenta cambios pero es potable
 -   Rojo si no es apta para consumo 
-
+è difficile 
 
