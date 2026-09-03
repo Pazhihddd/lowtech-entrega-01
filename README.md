@@ -35,7 +35,8 @@ Fenómeno / problema
 Queremos monitorear la pureza del agua y/o los químicos y alteraciones de esta 
 
 ¿Por qué importa?
-Porque es el único acceso a agua que tiene la gente que vive en este sector, y no saben cuando está contaminada o no.
+Porque es el único acceso a agua que tiene la gente que vive en este sector, y no saben cuando está contaminada o no, y si el valor de la cantidad de los cambios hace que el agua se vuelva peligrosa.
+
 
 ¿Qué tensión aparece?
 La necesidad de utilizar diariamente esta fuente de agua y la dificultad de conocer de manera sencilla y constante cuál es su calidad. Los habitantes dependen de ella para sus actividades cotidianas, pero no necesariamente cuentan con herramientas accesibles que permitan detectar cambios o posibles alteraciones antes de utilizarla.
