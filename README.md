@@ -1,19 +1,20 @@
-###  lowtech-entrega-01
+#  lowtech-entrega-01
 
 ## Monitoreo de la Calidad del Agua en Trafampulli
-# Proyecto de diseño y monitoreo ambiental
+### Proyecto de diseño y monitoreo ambiental
 
-# Lugar: Sector de Trafampulli, Región de La Araucanía
+### Lugar: Sector de Trafampulli, Región de La Araucanía
 # Tema: Calidad del agua
 # Objetivo general: Hacer visibles posibles cambios en las características del agua utilizada por los habitantes del sector
 
 ---
 
-## Fenómeno
+### Fenómeno
 En la región de La Araucanía, cerca del lago Colico, hay un sector de vecinos cuya única fuente de agua potable es la que cae de la cordillera, donde a veces al ser caida de la cordillera de forma directa, se ve contaminado ya sea de forma natural, como artificial. Lo que interviene tanto en el ganado como en la agricultura particular de los vecinos de la zona, siendo estos sus mayores ingresos o sustentos económicos.
 
+---
 
-## Contexto / Usuario
+### Contexto / Usuario
 
 ¿Dónde ocurre?
 En el sector de Trafampulli, en la región de La Araucanía
@@ -50,11 +51,11 @@ Podemos medir la pureza del agua, los químicos presentes en esta, el nivel de p
 ¿Qué tipo de dispositivo podría traducirlo en experiencia, dato o acción?
 Se puede usar un mededidor de pH y un medidor TDS
 
+---
 
+### Referentes
 
-## Referentes
-
-
+---
 
 ## Variables
 
@@ -67,6 +68,7 @@ Permite estimar la cantidad de sólidos disueltos presentes en el agua
 
 El objetivo no es determinar qué tiene el agua exactamente, sino que determinar si esta presenta variaciones o no
 
+---
 
 ## Hipótesis
 
